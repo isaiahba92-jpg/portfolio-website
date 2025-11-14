@@ -1,12 +1,16 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Blog
+landing-title: 'Thoughts on language, culture, technology, and the spaces between'
 nav-menu: true
-description: null
+description: Exploring the intersection of language, technology, and cultural exchange
 image: null
-author: null
+author: Isaiah Matthew Bartsch
 show_tile: false
 ---
 
-<h1>All posts</h1>
+# Blog
+
+Thoughts on language, culture, technology, and the spaces between.
+
+<h2>All posts</h2>
