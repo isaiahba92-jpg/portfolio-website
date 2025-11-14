@@ -1,33 +1,30 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: Isaiah Matthew Bartsch
+subtitle: Web Developer | Data Analyst | AI Specialist | Translator | Cultural Consultant
+email: isaiahba92@gmail.com
+description: Professional web developer, data analyst, and AI specialist with expertise in building modern applications, analyzing complex datasets, and implementing machine learning solutions. Bridging worlds through language, culture, and technology. Based in Japan, specializing in Language Labs AI and remote technical solutions.
+baseurl: "/portfolio-website"
+url: "https://isaiahba92-jpg.github.io"
+author: Isaiah Matthew Bartsch
+street_address: Tokyo, Japan
+city: Tokyo
+state: Japan
+zip_code: 
+country: Japan
+phone: 
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: pages
 tiles-count: 6
 
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
+# social settings
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/isaiahba92-jpg
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/isaiah-bartsch
+  Twitter: https://x.ai
   Facebook:
   Slack:
 
@@ -38,7 +35,7 @@ sass:
   style: compressed
 
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
